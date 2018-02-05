@@ -11,4 +11,4 @@ const addnumber=(n,m)=>
   console.log(total);
 }
 
-print(1,2)
+print(10,20)
